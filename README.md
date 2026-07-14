@@ -1,3 +1,16 @@
+# Flywheel PRDs — ARCHIVED / MOVED
+
+> **⛔ This repository is ARCHIVED (2026-07-14). The canonical PRD home has moved into the Flywheel repo.**
+>
+> - **Product PRDs** → `Psycle-Health/flywheel` : `docs/prd/features/` (feature-sliced)
+> - **Engineering specs** → `docs/spec/{core,ops}/` (per-feature)
+> - **Governance + the PRD → spec → ticket → implementation chain** → `docs/prd/README.md`
+>
+> The 14 feature PRDs here were migrated, are CI-enforced for traceability, and this repo is read-only.
+> **Do not edit here.** The content below is the prior staging version, retained for history only.
+
+---
+
 # Flywheel PRDs
 
 **Deadline:** July 16, 2026
